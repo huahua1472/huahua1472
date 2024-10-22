@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 physics from symmetry!
 
-https://img.shields.io/badge/python-3.9-orange
+![](https://img.shields.io/badge/python-3.9-orange)
 ![Wang Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=huahua1472&amp;show_icons=true&amp;theme=radical)
 
